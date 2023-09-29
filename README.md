@@ -1,3 +1,7 @@
+# THIS REPOSITORY IS A COPY OF https://github.com/paypal/PayPal-PHP-SDK WHICH IS DISAPPEARED
+# IT'S NOT BEING MAINTAINED
+
+----
 # REST API SDK for PHP
 
 ![Home Image](https://raw.githubusercontent.com/wiki/paypal/PayPal-PHP-SDK/images/homepage.jpg)
